@@ -1,0 +1,4 @@
+Git is a distributed version control system for tracking changes in any set of files. 
+Github is a subsidiary of Microsoft which provides hosting for software development.
+Repo is a repurchase agreement. 
+Commit is a save and change the file and make commit.
